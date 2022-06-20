@@ -1,0 +1,6 @@
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.Helper/bin/Debug/Modelo.Helper.dll
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.Helper/bin/Debug/Modelo.Helper.pdb
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.Helper/obj/Debug/Modelo.Helper.csproj.AssemblyReference.cache
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.Helper/obj/Debug/Modelo.Helper.csproj.CoreCompileInputs.cache
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.Helper/obj/Debug/Modelo.Helper.dll
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.Helper/obj/Debug/Modelo.Helper.pdb

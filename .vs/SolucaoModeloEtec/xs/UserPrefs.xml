@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Modelo.ORM/DAL/CategoriaDal.cs">
+    <Files>
+      <File FileName="Modelo.ORM/DAL/CategoriaDal.cs" Line="49" Column="57" />
+      <File FileName="Modelo.ORM/INFO/CategoriaInfo.cs" Line="14" Column="22" />
+      <File FileName="Modelo.ORM/INFO/ProdutoInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SolucaoModeloEtec" expanded="True">
+            <Node name="Modelo.Helper" expanded="True" />
+            <Node name="Modelo.ORM" expanded="True">
+              <Node name="DAL" expanded="True">
+                <Node name="CategoriaDal.cs" selected="True" />
+              </Node>
+              <Node name="INFO" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

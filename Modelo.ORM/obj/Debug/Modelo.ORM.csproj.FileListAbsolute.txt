@@ -1,0 +1,9 @@
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/bin/Debug/Modelo.ORM.dll
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/bin/Debug/Modelo.ORM.pdb
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/obj/Debug/Modelo.ORM.csproj.AssemblyReference.cache
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/obj/Debug/Modelo.ORM.csproj.CoreCompileInputs.cache
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/obj/Debug/Modelo.ORM.dll
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/obj/Debug/Modelo.ORM.pdb
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/bin/Debug/Dapper.dll
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/bin/Debug/Dapper.xml
+/Users/tdeoliveira/Documents/Treino/SolucaoModeloEtec/Modelo.ORM/obj/Debug/Modelo.ORM.csproj.CopyComplete
