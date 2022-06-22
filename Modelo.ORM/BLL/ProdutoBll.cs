@@ -9,6 +9,7 @@ using Modelo.ORM.DAL;
 
 namespace Modelo.ORM.BLL
 {
+
     public class ProdutoBll
     {
         ProdutoDal dal = new ProdutoDal();

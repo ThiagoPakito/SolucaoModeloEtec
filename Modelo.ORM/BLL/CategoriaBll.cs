@@ -10,6 +10,7 @@ using Modelo.ORM.DAL;
 namespace Modelo.ORM.Bll
 { 
 
+
     public class CategoriaBll
     {
         CategoriaDal dal = new CategoriaDal();

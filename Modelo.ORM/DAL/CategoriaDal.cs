@@ -24,7 +24,7 @@ namespace Modelo.ORM.DAL
                                                select * from CATEGORIA where CategoriaId = scope_identity()";
         const string sqlAtualizar = @"update CATEGORIA set Descricao = @Descricao,
                                                 IsAtivo=@IsAtivo where @CategoriaId=@CategoriaID";
-        const string sqlExcluir = @"Delete from CATEGORIA where categoriaId=@CategoriaID";
+        const string sqlExcluir = @"delete from CATEGORIA where categoriaId=@CategoriaID";
         const string sqlSelecionar = @"Select * from CATEGORIA where categoriaId=@CategoriaId";
         const string sqlSelecionarTodos = @"Select * from CATEGORIA order by Descricao";
 
